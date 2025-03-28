@@ -1,4 +1,4 @@
-# Exercise #0: Git and HTML
+# Lab 1-1: Git and HTML
 5 points
 
 **DUE: Friday, March 28 by 8:30pm, i.e. by the end of class**
